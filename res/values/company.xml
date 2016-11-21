@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="company">
+        <item>阿里巴巴</item>
+        <item>腾讯</item>
+        <item>百度</item>
+    </string-array>
+</resources>
